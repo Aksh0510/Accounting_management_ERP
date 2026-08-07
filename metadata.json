@@ -1,0 +1,6 @@
+{
+  "name": "SUYASH Housing Society Management",
+  "description": "Complete Housing Society Management, Accounting, Legal Compliance, Property Management & Digital Documentation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
